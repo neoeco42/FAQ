@@ -22,6 +22,7 @@ Das FAQ für den NECO GTA V FiveM Server.
 - [Texturen/Welt verschwommen](https://github.com/neoeco42/FAQ/blob/main/TextureBudget.md)
 - [TeamSpeak3](https://github.com/neoeco42/FAQ/blob/main/Teamspeak.md)
 
+
 ## Ideen
 
 - [Zukünftige FAQs](https://github.com/neoeco42/FAQ/blob/main/moreFAQ.md)
