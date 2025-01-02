@@ -9,6 +9,8 @@
 
 3. Löscht die Ordner **"Crashes, Logs, Data"**
 
-4. Startet anschließend FiveM neu!
+4. Leere den Windows Papierkorb
+
+5. Startet anschließend FiveM neu!
 
 **Tipp: Wir stellen euch hier eine ausführbare Datei zur Verfügung welche diese Aufgabe für euch durchführt.**
