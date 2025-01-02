@@ -10,8 +10,12 @@ Das FAQ für den NECO GTA V FiveM Server.
 - [Bankkonto Guide](https://github.com/neoeco42/FAQ/blob/main/Bankkonto.md)
 - [Emotes Guide](https://github.com/neoeco42/FAQ/blob/main/Emotes.md)
 - [Cache Guide](https://github.com/neoeco42/FAQ/blob/main/Cache.md)
-- [Grafik-Einstellungen Guide](https://github.com/neoeco42/FAQ/blob/main/Grafik-Einstellungen.md)
-- [Netzwerk Guide](https://github.com/neoeco42/FAQ/blob/main/Netzwerk.md)
+
 
 ## Problembehebung
 
+- [IngameVoice Einstellungen](https://github.com/neoeco42/FAQ/blob/main/IngameVoice.md)
+- [Grafik & FPS Einstellungen](https://github.com/neoeco42/FAQ/blob/main/Grafik-Einstellungen.md)
+- [Netzwerk Probleme](https://github.com/neoeco42/FAQ/blob/main/Netzwerk.md)
+- [IC Karte/Map läd nicht](https://github.com/neoeco42/FAQ/blob/main/Karte.md)
+- [Texturen/Welt verschwommen](https://github.com/neoeco42/FAQ/blob/main/TextureBudget.md)
