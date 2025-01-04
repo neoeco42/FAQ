@@ -2,7 +2,7 @@
 
 ![Tastatur-Layout](./img/layout.png)
 
-## Emote Menü [F4]
+## Emote Menü [F4]  - (Siehe: [Keybinding](https://github.com/neoeco42/FAQ/blob/main/Emotes.md))
 - F4 = Öffnen/Schließen Emotes Menü
 - B = Finger zeigen
 - Y = Hände hoch
