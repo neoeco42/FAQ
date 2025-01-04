@@ -1,5 +1,7 @@
 # Tastaturbelegung
 
+![Tastatur-Layout](./img/layout.png)
+
 ## Emote Menü [F4]
 - F4 = Öffnen/Schließen Emotes Menü
 - B = Finger zeigen
