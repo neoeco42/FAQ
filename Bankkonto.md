@@ -11,3 +11,5 @@ Anlegen eines Bank Kontos
 **Tipp: beachte unterschiedliche Banken bieten dir auch unterschiedliche Benefits wie zum Beispiel anonymen Zahlungsverkehr (natürlich hat aber auch das wie alles im Leben seinen Preis)**
 
 5. Klicke auf erstellen
+
+[Video: Bankkonto erstellen](https://youtu.be/uLOmSc4JN58)

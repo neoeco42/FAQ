@@ -6,3 +6,5 @@ Dies ist auch die Voraussetzung, um eine Waffe abzufeuern sowie für eine ordent
 Wenn ihr eure Waffen laden bzw. nachladen wollt, benötigt ihr die passende Munition und müsst diese über [R] benutzen.
 Beachtet bitte, dass ihr nicht mehr Magazine mit der Munition befüllen könnt, als zu der Waffe gehören. 
 Eure Magazine gehören immer explizit zu dieser bestimmten Waffe.
+
+[Video: Kampfsystem (ALT)](https://youtu.be/jTudY-cjk7I)
