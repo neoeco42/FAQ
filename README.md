@@ -11,6 +11,7 @@ Das FAQ für den NECO GTA V FiveM Server.
 - [Bankkonto Guide](https://github.com/neoeco42/FAQ/blob/main/Bankkonto.md)
 - [Emotes Guide](https://github.com/neoeco42/FAQ/blob/main/Emotes.md)
 - [Cache Guide](https://github.com/neoeco42/FAQ/blob/main/Cache.md)
+- [RP Begriffs Guide](https://github.com/neoeco42/FAQ/blob/main/RP-Begriffe.md)
 
 
 ## Problembehebung
