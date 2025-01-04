@@ -15,4 +15,4 @@
 
 **Tipp: Wir stellen euch hier eine ausführbare Datei zur Verfügung welche diese Aufgabe für euch durchführt.**
 
-[Video: Chache leeren (ALT)](https://youtu.be/ZRb7J_G3Qbs)
+[Video: Chache leeren](https://youtu.be/ZRb7J_G3Qbs)
