@@ -7,7 +7,7 @@ Die Installation von FiveM ist relativ einfach. Normalerweise muss man lediglich
 Falls Probleme auftreten, stellen Sie sicher, dass Ihr System die [Mindestanforderungen](https://docs.fivem.net/docs/client-manual/system-requirements/) erfüllt und lesen Sie das Handbuch für Client-Probleme.
 
 - **Antivirus-Probleme:**
-  Wenn Sie beim Starten von FiveM auf Probleme mit Ihrem Antivirus stoßen, sollten Sie ein [Support-Ticket](https://support.cfx.re/hc/en-us/requests/new) (**VORSICHT TICKET GEHT AN FIVEM**) einreichen.
+  Wenn Sie beim Starten von FiveM auf Probleme mit Ihrem Antivirus stoßen, sollten Sie ein [Support-Ticket](https://support.cfx.re/hc/en-us/requests/new) ***(VORSICHT: TICKET GEHT AN FIVEM)*** einreichen.
 
 - **GTA V installieren und aktualisieren:**
   Stellen Sie sicher, dass Sie GTA V installiert und auf dem neuesten Stand haben.
