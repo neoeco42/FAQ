@@ -15,6 +15,8 @@ Das FAQ für den NECO GTA V FiveM Server.
 - [Job Guide](https://github.com/neoeco42/FAQ/blob/main/job.md)
 - [Shops Guide](https://github.com/neoeco42/FAQ/blob/main/shops.md)
 - [Immobilien Guide](https://github.com/neoeco42/FAQ/blob/main/wohnen.md)
+- [Fahrzeuge Guide](https://github.com/neoeco42/FAQ/blob/main/Fahrzeuge.md)
+- [Reparaturen Guide](https://github.com/neoeco42/FAQ/blob/main/Reparatur.md)
 - [Kampfsystem Guide](https://github.com/neoeco42/FAQ/blob/main/Kampfsystem.md)
 - [Bankkonto Guide](https://github.com/neoeco42/FAQ/blob/main/Bankkonto.md)
 - [Emotes Guide](https://github.com/neoeco42/FAQ/blob/main/Emotes.md)
