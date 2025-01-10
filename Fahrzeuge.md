@@ -10,7 +10,7 @@ Du hast gespart oder hast die Kohle so übrig und Interesse an einem Fahrzeug? K
 
 4. Dort findest du einen NPC der dir Fahrzeuge anbietet. 
 
-### WICHTIG: Gib dem Laden etwas Zeit zum Laden, denn er bietet dir im Gegenzug auch gaaaanz viel an.
+### WICHTIG: Gib dem Fahrzeugverkäufer (Shop) etwas Zeit zum Laden, denn er bietet dir im Gegenzug auch gaaaanz viel an.
 
 5. Das Fahrzeug kaufen.
 
